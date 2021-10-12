@@ -6,7 +6,7 @@
   "homepage": "https://alexrosly.github.io/Filmoteka/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-project-JS/"
+    "build": "parcel build src/*.html --public-url /Filmoteka/"
   },
   "repository": {
     "type": "git",
